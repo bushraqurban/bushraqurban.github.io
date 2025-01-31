@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! Here, you can explore my projects, ski
 ## Live Demo
 
 Check out my live portfolio at:  
-[https://bushraqurban.github.io/portfolio](https://username.github.io/portfolio)
+[https://bushraqurban.github.io/](https://bushraqurban.github.io/)
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@ Check out my live portfolio at:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/bushraqurban/portfolio.git
+   git clone https://github.com/bushraqurban/bushraqurban.github.io.git
    ```
 
 2. Open `index.html` in your browser.
